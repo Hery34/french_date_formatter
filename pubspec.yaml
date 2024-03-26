@@ -1,5 +1,5 @@
 name: french_date_formatter
-description: "A very simple package to format date in french."
+description: "A very simple package to format date in french. It requires a Date in String format (usually YYYY-MM-DD) and returns a String in french format."
 version: 0.0.1
 homepage: https://github.com/Hery34/french_date_formatter
 
